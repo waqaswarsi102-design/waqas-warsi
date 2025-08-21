@@ -267,12 +267,19 @@ body {
     flex-wrap: wrap;
 }
 
-.hero-image {
+/*.hero-image {
     display: flex;
     justify-content: center;
     align-items: center;
     animation: slideInRight 1s ease-out;
+} */
+.hero-image {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin: 20px auto;
 }
+
 
 .hero-placeholder {
     width: 300px;
