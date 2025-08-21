@@ -25,10 +25,10 @@ body {
     padding: 0 20px;
 }
 .hero-image{
-   /* width: 20px;        /* Adjust size */
-   /* height: 20px;       /* Adjust size */
-   /* border-radius: 50%;  /* Makes it circular */
-   /* object-fit: cover;   /* Ensures the image fits nicely */
+    width: 20px;        /* Adjust size */
+    height: 20px;       /* Adjust size */
+    border-radius: 50%;  /* Makes it circular */
+    object-fit: cover;   /* Ensures the image fits nicely */
     border: 3px solid #333; /* Optional border */
 }
 
