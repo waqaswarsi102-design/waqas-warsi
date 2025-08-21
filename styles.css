@@ -28,7 +28,7 @@ body {
     width: 20px;        /* Adjust size */
     height: 20px;       /* Adjust size */
     border-radius: 50%;  /* Makes it circular */
-    object-fit: cover;   /* Ensures the image fits nicely */
+   /* object-fit: cover;   /* Ensures the image fits nicely */
     border: 3px solid #333; /* Optional border */
 }
 
