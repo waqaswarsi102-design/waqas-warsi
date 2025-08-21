@@ -25,9 +25,9 @@ body {
     padding: 0 20px;
 }
 .profile-img {
-    width: 200px;        /* Adjust size */
-    height: 200px;       /* Adjust size */
-    border-radius: 50%;  /* Makes it circular */
+    width: 500px;        /* Adjust size */
+    height: 500px;       /* Adjust size */
+    border-radius: 80%;  /* Makes it circular */
     object-fit: cover;   /* Ensures the image fits nicely */
     border: 3px solid #333; /* Optional border */
 }
